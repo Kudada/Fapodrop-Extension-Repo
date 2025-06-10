@@ -1,0 +1,24 @@
+{
+  "name": "Fapodrop Extension Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Fapodrop",
+      "pkg": "eu.kanade.tachiyomi.extension.en.fapodrop",
+      "lang": "en",
+      "version": "1.0",
+      "versionCode": 1,
+      "nsfw": true,
+      "apk": "https://github.com/Kudada/Fapodrop-Extension-Repo/blob/main/fapodrop-extension.apk",
+      "icon": "icon.png",
+      "sources": [
+        {
+          "id": "fapodrop",
+          "name": "Fapodrop",
+          "baseUrl": "https://fapodrop.com",
+          "lang": "en"
+        }
+      ]
+    }
+  ]
+}
